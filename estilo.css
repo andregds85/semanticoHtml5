@@ -1,0 +1,31 @@
+header{
+background-image: url("img/topo.jpg");
+padding-top: 30%;
+background-repeat: no-repeat;
+background-size: cover;
+color:white;
+}
+nav{
+  background-color: black;
+  padding: 1%;
+}
+
+#sobre{
+    background-color: yellow;
+    padding: 40%;
+}
+
+li{
+display: inline;
+}
+
+nav li:hover{
+    background-color: orange;
+}
+
+
+footer{
+    background-color: black;
+    padding: 10%;
+}
+
